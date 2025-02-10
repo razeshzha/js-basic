@@ -31,6 +31,6 @@
  let  uniqueId = Symbol("id"); //symbol
  let bigNumber = 9788997; // 
  // bigInt
- let decimalNumber = 0.123456;  // BigInt होइन, सामान्य Number प्रयोग गर्नुहोस् ✅
+ let decimalNumber = 0.123456;  // BigInt 
 
  console.log( decimalNumber);
