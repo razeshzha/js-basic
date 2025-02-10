@@ -22,15 +22,15 @@
 //*null z = null;
 //*symbol let sym = Symbol("id"); // ES6
 //*BigInt let bigInt = 123n; // ES11
- let num = 10;  // Number
- let text = "hello,world!"; // string
- let isTrue = true; // boolean
- let isfalse = false; // boolean
- let X; //undefined
- let y = null; // null
- let  uniqueId = Symbol("id"); //symbol
- let bigNumber = 9788997; // 
- // bigInt
- let decimalNumber = 0.123456;  // BigInt 
+ // let num = 10;  // Number
+ // let text = "hello,world!"; // string
+ // let isTrue = true; // boolean
+ // let isfalse = false; // boolean
+ // let X; //undefined
+ // let y = null; // null
+ // let  uniqueId = Symbol("id"); //symbol
+ // let bigNumber = 9788997; // 
+ // // bigInt
+ // let decimalNumber = 0.123456;  // BigInt 
 
- console.log( decimalNumber);
+ // console.log( decimalNumber);
